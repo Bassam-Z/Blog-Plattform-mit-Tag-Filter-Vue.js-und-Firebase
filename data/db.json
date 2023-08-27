@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet, lorem ipsum doler sit amet",
+      "tags": [
+        "css",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "Bassam",
+      "body": "test",
+      "tags": [],
+      "id": 3
+    },
+    {
+      "title": "Bassam 2",
+      "body": "test 2",
+      "tags": [
+        "java"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Bassam",
+      "body": "Bassam Projekt test",
+      "tags": [
+        "CSS",
+        "HTML",
+        "Vue.js",
+        "JavaScript"
+      ],
+      "id": 5
+    },
+    {
+      "title": "öä#",
+      "body": "äö#öä",
+      "tags": [
+        "öä#"
+      ],
+      "id": 6
+    }
+  ]
+}
